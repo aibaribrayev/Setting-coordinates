@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/catkin_ws/install
+
+Name: set_point
+Description: Description of set_point
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
